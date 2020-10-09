@@ -16,7 +16,10 @@
 
 # 使用说明
 
-[点击这里](doc/manual.md)
+下载最新的包
+https://github.com/codingmiao/qrtransfer/releases/download/v1.0/qrtransfer_v1.0.zip
+
+然后[点击这里](doc/manual.md)按步骤配置和启动
 
 
 # 声明
