@@ -1,0 +1,12 @@
+.idea/
+.settings/
+.project
+.classpath
+*.iml
+*.class
+target/
+eclipse/
+nb-configuration.xml
+nb_jr_remoting.cfg
+rebel.xml
+*.log
